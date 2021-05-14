@@ -13,6 +13,7 @@
         <module>java-library</module>
         <module>collection-lambda</module>
         <module>engineer-algorithm</module>
+        <module>hutool-core</module>
     </modules>
 
     <properties>

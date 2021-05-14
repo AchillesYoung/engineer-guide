@@ -17,7 +17,6 @@ import java.util.Set;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.collection.CollectionUtil;
 import cn.hutool.core.collection.IterUtil;
 import cn.hutool.core.comparator.CompareUtil;
@@ -53,7 +52,7 @@ public class ArrayUtil extends PrimitiveArrayUtil {
 	 * @param <T>          数组元素类型
 	 * @param array        数组
 	 * @param defaultArray 默认数组
-	 * @return 非空（empty）的原数组或默认数组
+	 * @return 非空（empty）的原数组或默认数组f
 	 * @since 4.6.9
 	 */
 	public static <T> T[] defaultIfEmpty(T[] array, T[] defaultArray) {
