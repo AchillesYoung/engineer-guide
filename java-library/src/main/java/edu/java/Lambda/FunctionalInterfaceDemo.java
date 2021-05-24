@@ -1,4 +1,4 @@
-package Lambda;
+package edu.java.Lambda;
 
 
 import java.util.ArrayList;
@@ -8,8 +8,6 @@ import java.util.Random;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 
 public class FunctionalInterfaceDemo {
     //我目前的理解，是这里不用你定义一些Function接口，jdk已经提供了一些

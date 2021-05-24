@@ -1,9 +1,12 @@
-package io;
+package edu.java.io;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Properties;
 
 import org.junit.Test;
-
-import java.io.*;
-import java.util.Properties;
 
 public class ProperitesDemo {
     /**

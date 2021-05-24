@@ -1,4 +1,4 @@
-package concurrent;
+package edu.java.concurrent;
 
 class Code{
 	public Code(){

@@ -1,10 +1,10 @@
-package io;
-
-import org.junit.Test;
+package edu.java.io;
 
 import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
+
+import org.junit.Test;
 
 /**
  * RandomAccessFile的使用

@@ -1,10 +1,12 @@
-package io;
+package edu.java.io;
 
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Arrays;
 
 import org.junit.Test;
-
-import java.io.*;
-import java.util.Arrays;
 
 /**
  * show how File stream work, byte stream

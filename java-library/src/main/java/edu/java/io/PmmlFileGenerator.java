@@ -1,11 +1,11 @@
-package io;
-
-import org.junit.Test;
+package edu.java.io;
 
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+
+import org.junit.Test;
 
 /**
  * TODO

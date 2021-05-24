@@ -1,6 +1,4 @@
-package concurrent;
-
-import java.util.concurrent.TimeUnit;
+package edu.java.concurrent;
 
 class Phone
 {

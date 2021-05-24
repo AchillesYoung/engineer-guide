@@ -1,12 +1,16 @@
-package Lambda;
+package edu.java.Lambda;
 
-import org.junit.Test;
-
-import java.lang.reflect.Array;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
+import org.junit.Test;
 
 /**
  * @author yangshu06 <yangshu06@kuaishou.com>

@@ -1,9 +1,5 @@
-package Lambda;
-import org.omg.CORBA.PUBLIC_MEMBER;
-
-import java.io.File;
+package edu.java.Lambda;
 import java.util.Comparator;
-import java.util.List;
 
 /**
  * lambda的本质还是作为函数式接口的实例，只有一个抽象方法

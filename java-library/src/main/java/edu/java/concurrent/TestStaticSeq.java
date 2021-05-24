@@ -1,4 +1,4 @@
-package concurrent;
+package edu.java.concurrent;
 
 
 class Father   ///Father.class--Son.class -Father Instance--Son Instance

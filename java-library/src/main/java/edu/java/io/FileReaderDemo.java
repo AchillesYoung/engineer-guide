@@ -1,11 +1,12 @@
-package io;
+package edu.java.io;
 
 
-import org.junit.Test;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+
+import org.junit.Test;
 
 /**
  * 网络联系为什么是IO stream

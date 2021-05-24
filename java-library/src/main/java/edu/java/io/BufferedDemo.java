@@ -1,8 +1,16 @@
-package io;
+package edu.java.io;
+
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 
 import org.junit.Test;
-
-import java.io.*;
 
 
 public class BufferedDemo {

@@ -1,4 +1,4 @@
-package Lambda;
+package edu.java.Lambda;
 
 import java.io.PrintStream;
 import java.util.Arrays;

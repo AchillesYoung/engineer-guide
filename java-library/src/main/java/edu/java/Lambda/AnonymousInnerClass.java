@@ -1,4 +1,4 @@
-package Lambda;
+package edu.java.Lambda;
 
 import java.util.Comparator;
 import java.util.TreeMap;

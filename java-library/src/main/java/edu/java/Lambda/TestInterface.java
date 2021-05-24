@@ -1,4 +1,4 @@
-package Lambda;
+package edu.java.Lambda;
 
 @FunctionalInterface
 public interface TestInterface {

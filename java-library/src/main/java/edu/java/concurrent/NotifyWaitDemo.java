@@ -1,4 +1,4 @@
-package concurrent;
+package edu.java.concurrent;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

@@ -1,4 +1,4 @@
-package concurrent;
+package edu.java.concurrent;
 
 import java.text.SimpleDateFormat;
 import java.util.Random;
