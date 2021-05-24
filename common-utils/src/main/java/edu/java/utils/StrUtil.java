@@ -669,4 +669,5 @@ public class StrUtil extends CharSequenceUtil {
 		}
 		return template2;
 	}
+
 }
